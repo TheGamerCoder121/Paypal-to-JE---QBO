@@ -1,0 +1,119 @@
+Journal No,Journal Date,Memo,Account,Amount,Description,Name,Location,Class,Currency Code,Exchange Rate,Is Adjustment
+1,08/01/24,PayPal - 3 Transactions,PayPal Balance,-1.0,"Mobile Payment, General Card Deposit, Mobile Payment","Nolan Ploof, Michael Kaufman",,,USD,,FALSE
+1,08/01/24,PayPal - 3 Transactions,PayPal Expense,1.0,Mobile Payment,Nolan Ploof,,,USD,,FALSE
+1,08/01/24,PayPal - 3 Transactions,PayPal Income,-1.0,General Card Deposit,,,,USD,,FALSE
+1,08/01/24,PayPal - 3 Transactions,PayPal Expense,1.0,Mobile Payment,Michael Kaufman,,,USD,,FALSE
+2,08/01/24,PayPal - 1 Transaction,PayPal Balance,-55.78,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+2,08/01/24,PayPal - 1 Transaction,PayPal Expense,55.78,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+3,08/01/24,PayPal - 1 Transaction,PayPal Balance,970.1,Mobile Payment,Katherine Krasky,,,USD,,FALSE
+3,08/01/24,PayPal - 1 Transaction,PayPal Income,-970.1,Mobile Payment,Katherine Krasky,,,USD,,FALSE
+4,08/01/24,PayPal - 1 Transaction,PayPal Balance,-1000.0,Mobile Payment,Michael Kaufman,,,USD,,FALSE
+4,08/01/24,PayPal - 1 Transaction,PayPal Expense,1000.0,Mobile Payment,Michael Kaufman,,,USD,,FALSE
+5,08/02/24,PayPal - 1 Transaction,PayPal Balance,-89.93,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+5,08/02/24,PayPal - 1 Transaction,PayPal Expense,89.93,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+6,08/02/24,PayPal - 1 Transaction,PayPal Balance,-375.0,Mobile Payment,Joshua Wolsey,,,USD,,FALSE
+6,08/02/24,PayPal - 1 Transaction,PayPal Expense,375.0,Mobile Payment,Joshua Wolsey,,,USD,,FALSE
+7,08/03/24,PayPal - 1 Transaction,PayPal Balance,1.94,Mobile Payment,Michael Thorpe,,,USD,,FALSE
+7,08/03/24,PayPal - 1 Transaction,PayPal Income,-1.94,Mobile Payment,Michael Thorpe,,,USD,,FALSE
+8,08/03/24,PayPal - 1 Transaction,PayPal Balance,135.81,Mobile Payment,Christopher Galakoutis,,,USD,,FALSE
+8,08/03/24,PayPal - 1 Transaction,PayPal Income,-135.81,Mobile Payment,Christopher Galakoutis,,,USD,,FALSE
+9,08/03/24,PayPal - 1 Transaction,PayPal Balance,184.32,Mobile Payment,Erik Konyk,,,USD,,FALSE
+9,08/03/24,PayPal - 1 Transaction,PayPal Income,-184.32,Mobile Payment,Erik Konyk,,,USD,,FALSE
+10,08/03/24,PayPal - 1 Transaction,PayPal Balance,-281.69,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+10,08/03/24,PayPal - 1 Transaction,PayPal Expense,281.69,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+11,08/03/24,PayPal - 1 Transaction,PayPal Balance,1503.65,Mobile Payment,Alejandro Bonilla,,,USD,,FALSE
+11,08/03/24,PayPal - 1 Transaction,PayPal Income,-1503.65,Mobile Payment,Alejandro Bonilla,,,USD,,FALSE
+12,08/03/24,PayPal - 1 Transaction,PayPal Balance,3880.4,Mobile Payment,Nathan Tarkowski,,,USD,,FALSE
+12,08/03/24,PayPal - 1 Transaction,PayPal Income,-3880.4,Mobile Payment,Nathan Tarkowski,,,USD,,FALSE
+13,08/04/24,PayPal - 1 Transaction,PayPal Balance,-1.0,Mobile Payment,Christopher Lansdale,,,USD,,FALSE
+13,08/04/24,PayPal - 1 Transaction,PayPal Expense,1.0,Mobile Payment,Christopher Lansdale,,,USD,,FALSE
+14,08/04/24,PayPal - 1 Transaction,PayPal Balance,-45.0,Mobile Payment,Terry Galper,,,USD,,FALSE
+14,08/04/24,PayPal - 1 Transaction,PayPal Expense,45.0,Mobile Payment,Terry Galper,,,USD,,FALSE
+15,08/04/24,PayPal - 1 Transaction,PayPal Balance,48.5,Mobile Payment,Adrienne Schaberg,,,USD,,FALSE
+15,08/04/24,PayPal - 1 Transaction,PayPal Income,-48.5,Mobile Payment,Adrienne Schaberg,,,USD,,FALSE
+16,08/04/24,PayPal - 1 Transaction,PayPal Balance,218.27,Mobile Payment,justin mclaughlin,,,USD,,FALSE
+16,08/04/24,PayPal - 1 Transaction,PayPal Income,-218.27,Mobile Payment,justin mclaughlin,,,USD,,FALSE
+17,08/04/24,PayPal - 1 Transaction,PayPal Balance,-225.0,Mobile Payment,William Hunley,,,USD,,FALSE
+17,08/04/24,PayPal - 1 Transaction,PayPal Expense,225.0,Mobile Payment,William Hunley,,,USD,,FALSE
+18,08/04/24,PayPal - 1 Transaction,PayPal Balance,-317.0,Mobile Payment,Riccardo Carta,,,USD,,FALSE
+18,08/04/24,PayPal - 1 Transaction,PayPal Expense,317.0,Mobile Payment,Riccardo Carta,,,USD,,FALSE
+19,08/04/24,PayPal - 1 Transaction,PayPal Balance,-500.0,Mobile Payment,Jeffrey Narleski,,,USD,,FALSE
+19,08/04/24,PayPal - 1 Transaction,PayPal Expense,500.0,Mobile Payment,Jeffrey Narleski,,,USD,,FALSE
+20,08/04/24,PayPal - 1 Transaction,PayPal Balance,-569.0,Mobile Payment,Paula Saayfan,,,USD,,FALSE
+20,08/04/24,PayPal - 1 Transaction,PayPal Expense,569.0,Mobile Payment,Paula Saayfan,,,USD,,FALSE
+21,08/04/24,PayPal - 1 Transaction,PayPal Balance,-635.6,Mobile Payment,Yali Louis Luna,,,USD,,FALSE
+21,08/04/24,PayPal - 1 Transaction,PayPal Expense,635.6,Mobile Payment,Yali Louis Luna,,,USD,,FALSE
+22,08/04/24,PayPal - 1 Transaction,PayPal Balance,-980.0,Mobile Payment,Alexander Elliott,,,USD,,FALSE
+22,08/04/24,PayPal - 1 Transaction,PayPal Expense,980.0,Mobile Payment,Alexander Elliott,,,USD,,FALSE
+23,08/04/24,PayPal - 1 Transaction,PayPal Balance,-2350.0,Mobile Payment,Christopher Lansdale,,,USD,,FALSE
+23,08/04/24,PayPal - 1 Transaction,PayPal Expense,2350.0,Mobile Payment,Christopher Lansdale,,,USD,,FALSE
+24,08/05/24,PayPal - 1 Transaction,PayPal Balance,-15.0,General Payment,Blake Turner,,,USD,,FALSE
+24,08/05/24,PayPal - 1 Transaction,PayPal Expense,15.0,General Payment,Blake Turner,,,USD,,FALSE
+25,08/05/24,PayPal - 1 Transaction,PayPal Balance,-30.1,General Payment,Mary Rikkers,,,USD,,FALSE
+25,08/05/24,PayPal - 1 Transaction,PayPal Expense,30.1,General Payment,Mary Rikkers,,,USD,,FALSE
+26,08/05/24,PayPal - 1 Transaction,PayPal Balance,-151.9,General Payment,Agostinho Ribeiro,,,USD,,FALSE
+26,08/05/24,PayPal - 1 Transaction,PayPal Expense,151.9,General Payment,Agostinho Ribeiro,,,USD,,FALSE
+27,08/06/24,PayPal - 1 Transaction,PayPal Balance,-79.08,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+27,08/06/24,PayPal - 1 Transaction,PayPal Expense,79.08,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+28,08/07/24,PayPal - 1 Transaction,PayPal Balance,59.98,Bank Deposit to PP Account,,,,USD,,FALSE
+28,08/07/24,PayPal - 1 Transaction,PayPal Income,-59.98,Bank Deposit to PP Account,,,,USD,,FALSE
+29,08/07/24,PayPal - 1 Transaction,PayPal Balance,-211.41,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+29,08/07/24,PayPal - 1 Transaction,PayPal Expense,211.41,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+30,08/16/24,PayPal - 1 Transaction,PayPal Balance,310.43,Mobile Payment,inna portnov,,,USD,,FALSE
+30,08/16/24,PayPal - 1 Transaction,PayPal Income,-310.43,Mobile Payment,inna portnov,,,USD,,FALSE
+31,08/16/24,PayPal - 1 Transaction,PayPal Balance,2134.22,Mobile Payment,Swish Breaks L.L.C,,,USD,,FALSE
+31,08/16/24,PayPal - 1 Transaction,PayPal Income,-2134.22,Mobile Payment,Swish Breaks L.L.C,,,USD,,FALSE
+32,08/17/24,PayPal - 1 Transaction,PayPal Balance,-81.34,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+32,08/17/24,PayPal - 1 Transaction,PayPal Expense,81.34,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+33,08/18/24,PayPal - 1 Transaction,PayPal Balance,2736.69,Bank Deposit to PP Account,,,,USD,,FALSE
+33,08/18/24,PayPal - 1 Transaction,PayPal Income,-2736.69,Bank Deposit to PP Account,,,,USD,,FALSE
+34,08/18/24,PayPal - 1 Transaction,PayPal Balance,-5100.0,Mobile Payment,Jacob Kahn,,,USD,,FALSE
+34,08/18/24,PayPal - 1 Transaction,PayPal Expense,5100.0,Mobile Payment,Jacob Kahn,,,USD,,FALSE
+35,08/21/24,PayPal - 1 Transaction,PayPal Balance,-5.62,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+35,08/21/24,PayPal - 1 Transaction,PayPal Expense,5.62,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+36,08/21/24,PayPal - 1 Transaction,PayPal Balance,233.51,Bank Deposit to PP Account,,,,USD,,FALSE
+36,08/21/24,PayPal - 1 Transaction,PayPal Income,-233.51,Bank Deposit to PP Account,,,,USD,,FALSE
+37,08/21/24,PayPal - 1 Transaction,PayPal Balance,1067.11,Mobile Payment,Gee’s sports cards,,,USD,,FALSE
+37,08/21/24,PayPal - 1 Transaction,PayPal Income,-1067.11,Mobile Payment,Gee’s sports cards,,,USD,,FALSE
+38,08/21/24,PayPal - 1 Transaction,PayPal Balance,-1295.0,Mobile Payment,Jake Noble,,,USD,,FALSE
+38,08/21/24,PayPal - 1 Transaction,PayPal Expense,1295.0,Mobile Payment,Jake Noble,,,USD,,FALSE
+39,08/23/24,PayPal - 3 Transactions,PayPal Balance,582.06,"Mobile Payment, Account Hold for Open Authorization, Reversal of General Account Hold",Gee’s sports cards,,,USD,,FALSE
+39,08/23/24,PayPal - 3 Transactions,PayPal Income,-582.06,Mobile Payment,Gee’s sports cards,,,USD,,FALSE
+39,08/23/24,PayPal - 3 Transactions,PayPal Other,582.06,Account Hold for Open Authorization,,,,USD,,FALSE
+39,08/23/24,PayPal - 3 Transactions,PayPal Other,-582.06,Reversal of General Account Hold,,,,USD,,FALSE
+40,08/23/24,PayPal - 1 Transaction,PayPal Balance,7124.71,Bank Deposit to PP Account,,,,USD,,FALSE
+40,08/23/24,PayPal - 1 Transaction,PayPal Income,-7124.71,Bank Deposit to PP Account,,,,USD,,FALSE
+41,08/23/24,PayPal - 1 Transaction,PayPal Balance,-7706.77,PreApproved Payment Bill User Payment,eBay Commerce Inc.,,,USD,,FALSE
+41,08/23/24,PayPal - 1 Transaction,PayPal Expense,7706.77,PreApproved Payment Bill User Payment,eBay Commerce Inc.,,,USD,,FALSE
+42,08/27/24,PayPal - 1 Transaction,PayPal Balance,485.05,Mobile Payment,Peter Czajkowski,,,USD,,FALSE
+42,08/27/24,PayPal - 1 Transaction,PayPal Income,-485.05,Mobile Payment,Peter Czajkowski,,,USD,,FALSE
+43,08/28/24,PayPal - 1 Transaction,PayPal Balance,-6.03,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+43,08/28/24,PayPal - 1 Transaction,PayPal Expense,6.03,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+44,08/28/24,PayPal - 1 Transaction,PayPal Balance,-7.17,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+44,08/28/24,PayPal - 1 Transaction,PayPal Expense,7.17,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+45,08/28/24,PayPal - 1 Transaction,PayPal Balance,-8.44,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+45,08/28/24,PayPal - 1 Transaction,PayPal Expense,8.44,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+46,08/28/24,PayPal - 1 Transaction,PayPal Balance,-37.0,General Payment,Ryan Klauzowski,,,USD,,FALSE
+46,08/28/24,PayPal - 1 Transaction,PayPal Expense,37.0,General Payment,Ryan Klauzowski,,,USD,,FALSE
+47,08/28/24,PayPal - 1 Transaction,PayPal Balance,-46.0,General Payment,Todd Manka,,,USD,,FALSE
+47,08/28/24,PayPal - 1 Transaction,PayPal Expense,46.0,General Payment,Todd Manka,,,USD,,FALSE
+48,08/28/24,PayPal - 1 Transaction,PayPal Balance,-82.3,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+48,08/28/24,PayPal - 1 Transaction,PayPal Expense,82.3,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+49,08/28/24,PayPal - 1 Transaction,PayPal Balance,-244.0,General Payment,tricia zygiel,,,USD,,FALSE
+49,08/28/24,PayPal - 1 Transaction,PayPal Expense,244.0,General Payment,tricia zygiel,,,USD,,FALSE
+50,08/29/24,PayPal - 1 Transaction,PayPal Balance,29.04,Bank Deposit to PP Account,,,,USD,,FALSE
+50,08/29/24,PayPal - 1 Transaction,PayPal Income,-29.04,Bank Deposit to PP Account,,,,USD,,FALSE
+51,08/29/24,PayPal - 1 Transaction,PayPal Balance,-83.15,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+51,08/29/24,PayPal - 1 Transaction,PayPal Expense,83.15,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+52,08/29/24,PayPal - 1 Transaction,PayPal Balance,50000.0,Mass Pay Payment,Whatnot Inc,,,USD,,FALSE
+52,08/29/24,PayPal - 1 Transaction,PayPal Income,-50000.0,Mass Pay Payment,Whatnot Inc,,,USD,,FALSE
+53,08/30/24,PayPal - 1 Transaction,PayPal Balance,-37.96,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+53,08/30/24,PayPal - 1 Transaction,PayPal Expense,37.96,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+54,08/31/24,PayPal - 1 Transaction,PayPal Balance,1.64,Third Party Payout,eBay Inc Shipping,,,USD,,FALSE
+54,08/31/24,PayPal - 1 Transaction,PayPal Other,-1.64,Third Party Payout,eBay Inc Shipping,,,USD,,FALSE
+55,08/31/24,PayPal - 1 Transaction,PayPal Balance,-4.02,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+55,08/31/24,PayPal - 1 Transaction,PayPal Expense,4.02,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+56,08/31/24,PayPal - 1 Transaction,PayPal Balance,-8.44,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+56,08/31/24,PayPal - 1 Transaction,PayPal Expense,8.44,PreApproved Payment Bill User Payment,eBay Inc Shipping,,,USD,,FALSE
+57,08/31/24,PayPal - 1 Transaction,PayPal Balance,-38.2,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
+57,08/31/24,PayPal - 1 Transaction,PayPal Expense,38.2,PreApproved Payment Bill User Payment,Pirate Ship LLC,,,USD,,FALSE
